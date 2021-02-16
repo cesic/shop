@@ -2,6 +2,7 @@ dasfasfasf
 
 
 dfsds
+<<<<<<< HEAD
 
 
 dsdfdsfdsfsf
@@ -9,3 +10,6 @@ dsdfdsfdsfsf
 
 
 fdsfsfsagasgae
+=======
+我有做了修改解决冲突
+>>>>>>> f68c18aa40efd42cde9fd79660cbb9cc8654fe21
